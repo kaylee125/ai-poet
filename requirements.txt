@@ -1,4 +1,6 @@
 langchain
+streamlit
+langchain-openai
 openai
 streamlit
 python-dotenv
